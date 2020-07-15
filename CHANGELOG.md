@@ -1,3 +1,8 @@
+## [2.0.0-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/tag/desktop-v2.0.0-beta)
+### Changed
+- Sidechain support on full-mode: sidechain explorer, create, forward transfer and backward transfer detection
+- Upgraded the bundled Zend to Zend_oo 2.1.0-beta4
+
 ## [1.2.7-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.7-beta)
 ### Changed
 - Fix a bug where change addresses generation in full mode was not covered by HD Seed

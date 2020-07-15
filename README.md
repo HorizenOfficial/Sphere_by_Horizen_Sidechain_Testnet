@@ -1,27 +1,19 @@
 <p align="center"><img src="https://www.horizen.global/assets/img/icons/page_media/logo_no_tagline.svg" width="600"></p>
 
-# Sphere by Horizen
+# Sphere by Horizen Sidechain Testnet
 
-**Due to a change of the Application ID in v1.2.6-beta, Windows users upgrading from 1.2.5-beta or earlier or setups with multiple user accounts must uninstall Sphere by Horizen first, using the "Programs" utility from the "Control Panel" before installing any version greater than v1.2.5-beta.**
-
-**Please follow the upgrade guides for [Windows](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/1136263172/Sphere+by+Horizen+-+Upgrade+Restore+Windows) or [macOS](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714309893/Sphere+by+Horizen+-+Upgrade+Restore+Mac+Linux).**
-
-**Latest Version:** [v1.2.7-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.7-beta)
+**Latest Version:** [v2.0.0-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/tag/desktop-v2.0.0-beta)
 
 For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
-
-**Due to significant improvements to data handling, users who took part in the version 1.0.1-beta or earlier are advised to create new accounts and restore their wallet seeds.**
-
-An upgrade mechanism will be included in a future release to remove the requirement on the user to perform this step.
 
 **User manual:** [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual)
 
 ## About
-Sphere by Horizen is envisioned as a launching point for Horizen services. The [latest](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest) version hosts wallet functions with the following features:
+Sphere by Horizen Sidechain Testnet is envisioned as a launching point for Horizen services. The [latest](https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest) version hosts wallet functions with the following features:
 
-* Full client with both transparent, private transactions
+* Full client running on Sidechain Beta Testnet with both transparent, private transactions
 
-* Lite client with transparent transactions
+* Sidechain support on full-mode: sidechain explorer, create, forward transfer and backward transfer detection
 
 * The wallet is deterministic, meaning if you lose your account, you can restore cryptocurrency funds through a user-friendly process involving a unique 24-word phrase
 
@@ -56,7 +48,7 @@ Sphere by Horizen is envisioned as a launching point for Horizen services. The [
 
 ## Installation instructions
 
-* All installers are available here [https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest)
+* All installers are available here [https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest)
 
 * For Windows, download and run the .exe installer package and follow the standard windows installation procedure.
 
