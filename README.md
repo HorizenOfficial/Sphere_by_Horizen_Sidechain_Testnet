@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.horizen.global/assets/img/icons/page_media/logo_no_tagline.svg" width="600"></p>
+<p align="center"><img src="https://downloads.horizen.global/file/web-assets/Testnet_512x512.svg" width="300"></p>
 
 # Sphere by Horizen Sidechain Testnet
 
