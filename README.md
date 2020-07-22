@@ -2,7 +2,7 @@
 
 # Sphere by Horizen Sidechain Testnet
 
-**Latest Version:** [v2.0.0-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/tag/desktop-v2.0.0-beta)
+**Latest Version:** [v2.0.0-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest)
 
 For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
 
@@ -48,7 +48,7 @@ Sphere by Horizen Sidechain Testnet is envisioned as a launching point for Horiz
 
 ## Installation instructions
 
-* All installers are available here [https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest)
+* All installers are available here [https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest](https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest)
 
 * For Windows, download and run the .exe installer package and follow the standard windows installation procedure.
 
