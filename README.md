@@ -2,14 +2,14 @@
 
 # Sphere by Horizen Sidechain Testnet
 
-**Latest Version:** [v2.0.0-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest)
+**Latest Version:** [v2.0.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest)
 
 For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
 
 **User manual:** [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual)
 
 ## About
-Sphere by Horizen Sidechain Testnet is envisioned as a launching point for Horizen services. The [latest](https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest) version hosts wallet functions with the following features:
+Sphere by Horizen Sidechain Testnet is envisioned as a launching point for Horizen services. The [latest](https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest) version hosts wallet functions with the following features:
 
 * Full client running on Sidechain Beta Testnet with both transparent, private transactions
 
@@ -48,7 +48,7 @@ Sphere by Horizen Sidechain Testnet is envisioned as a launching point for Horiz
 
 ## Installation instructions
 
-* All installers are available here [https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest](https://github.com/ZencashOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest)
+* All installers are available here [https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest](https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest)
 
 * For Windows, download and run the .exe installer package and follow the standard windows installation procedure.
 
