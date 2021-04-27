@@ -1,3 +1,9 @@
+## [2.0.1-beta]
+## Changed
+- Run zend_oo with -disabledeprecation=2.1.0-beta4
+### Bugfix
+- Fix password strength help text on login dialog
+
 ## [2.0.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/tag/desktop-v2.0.0-beta)
 ### Changed
 - Sidechain support on full-mode: sidechain explorer, create, forward transfer and backward transfer detection

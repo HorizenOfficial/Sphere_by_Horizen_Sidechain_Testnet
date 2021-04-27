@@ -2,7 +2,7 @@
 
 # Sphere by Horizen Sidechain Testnet
 
-**Latest Version:** [v2.0.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest)
+**Latest Version:** [v2.0.1-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen_Sidechain_Testnet/releases/latest)
 
 For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
 
